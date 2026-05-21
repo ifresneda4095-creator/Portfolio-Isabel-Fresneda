@@ -1,0 +1,20 @@
+// Variables de color
+$color-mustard: #D59618;
+$color-magenta: #E52E6B;
+$color-black: #11090B;
+$color-white: #FFFFFF;
+$color-grey: #D1D1D1;
+
+// Tipografías
+$font-serif: 'EB Garamond', serif;
+$font-sans: 'Anton', sans-serif;
+
+// Mixins básicos
+@mixin font-serif {
+  font-family: $font-serif;
+}
+
+@mixin font-sans {
+  font-family: $font-sans;
+  font-weight: 400; // Anton solo existe en regular (400), forzamos para evitar falsos bolds del navegador
+}

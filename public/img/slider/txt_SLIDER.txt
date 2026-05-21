@@ -1,0 +1,31 @@
+SLIDER:
+
+*slide 1*
+h1 -> FANZINE
+h2 -> graffiti fanzine
+li -> El proyecto “Graffiti” es un trabajo editorial y una exploración del arte urbano. Es palpable el concepto de arte urbano entendido como arte callejero y que aúna amistad e insurrección.
+li -> A través de un concepto original, tiene como fin la exposición de las técnicas gráficas de impresión digital como tramados, semitonos, separación de canales CMYK y juegos de umbral, entre otros.
+
+*slide 2*
+h1 -> LIBRO ARTE
+h2 -> diseño de libro ilustrado
+li -> ‘El poema de Bhowan’ es un libro de arte ilustrado que, basado en versos de una tribu tibetana, diseña su estructura y gráfica para comunicar el poema.
+li -> El resultado final reflexiona sobre los procesos vitales nacer, vivir y morirse mediante formas y códigos cromáticos; a la par que se recoge a modo de atrapasueños en relación el texto.
+
+*slide 3*
+h1 -> PUBLICACIÓN
+h2 -> diseño de libro ilustrado
+li -> El paso por el sello editorial de Marcablanca da lugar a la colaboración en un producto editorial que se realiza como encargo particular y abarca el diseño y la creación de artes finales de una sección de lo que acaba siendo el primer dossier de Marcablanca. Recoge el histórico del sello en formato físico.
+li -> Trabajando con Adobe Indesign, se desarrollan y aplican estilos, retículas y espaciados con especial énfasis en la interlínea e interletrado, partiendo de una base estética redefinida acorde a nuevas prioridades comunicativas y manteniendo la identidad visual que se quería respetar. Por último, se prepara y envía a imprenta.
+
+*slide 4*
+h1 -> CARCASA
+h2 -> funda y stickers
+li -> Proyecto para encargo de la empresa de fundas de móvil La Casa de las Carcasas (LCC), consta de un conjunto de ilustraciones para carcasa y para pegatinas.
+li -> La marca exigía diseños para un target amplio en edad y género, por lo que el tema escogido fue “dance & friends”. Así, los diseños de carácter figurativo y líneas suaves, persiguen cierta pureza y sencillez expresiva inspirándose en ilustraciones de Miguel Ángel Camprubi y María Ramos.
+
+*slide 5*
+h1 -> PACKAGING
+h2 -> rediseño
+li -> El ejercicio consiste en diseñar el packaging para una nueva línea de snacks bajos en calorías de Matutano. El objetivo, crear un diseño de producto que no siga su identidad gráfica habitual, enfocándose en integrar gráfica y producto.
+li -> La propuesta final es una gráfica juguetona, de acabados sobrios y con un formato que conecta con la idealización del desayuno y la dieta sana.
