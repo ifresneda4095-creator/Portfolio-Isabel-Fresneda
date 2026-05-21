@@ -5,7 +5,7 @@
         <div class="swiper-wrapper">
           <div class="swiper-slide" v-for="(slide, index) in slides" :key="index">
             <div class="slide-card">
-              <img :src="`img/slider/slide_0${index + 1}.png`" :alt="slide.h1" />
+              <img :src="`/img/slider/slide_0${index + 1}.png`" :alt="slide.h1" />
             </div>
           </div>
         </div>
