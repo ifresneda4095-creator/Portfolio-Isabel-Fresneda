@@ -10,7 +10,7 @@
         @mouseenter="handleHover(1, i)"
       >
         <div class="item-inner">
-          <img :src="`/img/grid_3x4/row1_impresa/img${i}.png`" alt="Impresa" />
+          <img :src="`img/grid_3x4/row1_impresa/img${i}.png`" alt="Impresa" />
           <div class="overlay">
             <h3 v-if="selectedInRow1 === i" class="title">IMPRESA</h3>
           </div>
@@ -28,7 +28,7 @@
         @mouseenter="handleHover(2, i)"
       >
         <div class="item-inner">
-          <img :src="`/img/grid_3x4/row2_identidad/img${i}.png`" alt="Identidad" />
+          <img :src="`img/grid_3x4/row2_identidad/img${i}.png`" alt="Identidad" />
           <div class="overlay">
             <h3 v-if="selectedInRow2 === i" class="title">IDENTIDAD</h3>
           </div>
@@ -46,7 +46,7 @@
         @mouseenter="handleHover(3, i)"
       >
         <div class="item-inner">
-          <img :src="`/img/grid_3x4/row3_audiovisual/img${i}.jpg`" alt="Audiovisual" />
+          <img :src="`img/grid_3x4/row3_audiovisual/img${i}.jpg`" alt="Audiovisual" />
           <div class="overlay">
             <h3 v-if="selectedInRow3 === i" class="title">AUDIOVISUAL</h3>
           </div>
@@ -64,7 +64,7 @@
         @mouseenter="handleHover(4, i)"
       >
         <div class="item-inner">
-          <img :src="`/img/grid_3x4/row4_experimental/img${i}.jpg`" alt="Experimental" />
+          <img :src="`img/grid_3x4/row4_experimental/img${i}.jpg`" alt="Experimental" />
           <div class="overlay">
             <h3 v-if="selectedInRow4 === i" class="title">EXPERIMENTAL</h3>
           </div>

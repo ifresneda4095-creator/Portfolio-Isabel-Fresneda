@@ -109,7 +109,7 @@ const scrollToFooter = () => {
 }
 
 .nav-item {
-  @include font-serif;
+  @include font-sans;
   height: calc(100% - 8px); // Margen interno
   display: flex;
   align-items: center;
